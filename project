@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+  <a class="navbar-brand" href="#">POLINEMA</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">ABOUT</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Gallery</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Contact Us</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container text-center mt5">
+  <img src="logo.jpg" width="300px" style="float:center; margin:8px">
+    <h1 class="display-4">PSDKU Kota Kediri</h1>
+    <p class="lead">Selamat Datang di Polinema PSDKU Kota Kediri</p>
+  </div>
+</div>
+<div class="container mt-5">
+ <h2 class="text-center">ABOUT</h2>
+  <div class="row">
+    <div class="col-sm">
+    Politeknik Negeri Malang awalnya bernama Politeknik Universitas Brawijaya,
+	berdiri pada tahun 1982 berdasarkan Surat Keputusan Presiden No. 59/Tahun 1982. 
+	Politeknik Universitas Brawijaya berkedudukan di Kota Malang, Provinsi Jawa Timur 
+	dan merupakan salah satu dari 6 Politeknik perintis berdasarkan Surat Keputusan Direktur Jenderal Pendidikan Tinggi No.115/DIKTI/KEP/1984.
+	Perubahan nama Politeknik Universitas Brawijaya menjadi Politeknik Negeri Malang (POLINEMA)
+	didasarkan pada Surat Keputusan Menteri Pendidikan Nasional Nomor 147/O/2004 tanggal 22 November 2004.
+	Pada awal berdiri Politeknik Universitas Brawijaya memiliki empat jurusan, yaitu 
+	Jurusan Teknik Elektronika, Jurusan Teknik Listrik, Jurusan Teknik Mesin, dan Jurusan Teknik Sipil.
+	Seiring dengan perkembangan industri dan pembangunan nasional di Indonesia, 
+	pada tahun 1986 dibuka Jurusan Teknik Telekomunikasi, Jurusan Akuntansi, dan Jurusan Kesekretariatan. 
+    </div>
+   
+    <div class="col-sm">
+   Mulai tanggal 12 Februari 2001 Jurusan Administrasi Niaga Program Studi Kesekretariatan dan Administrasi Perkantoran
+   diubah menjadi Jurusan Administrasi Niaga Program Studi Administrasi Bisnis,
+   berdasarkan Surat Keputusan Direktur Jenderal Pendidikan Tinggi Nomor 45/DIKTI/Kep/2001.
+   Untuk memenuhi kebutuhan masyarakat dan industri, 
+   pada tahun 2004 Jurusan Teknik Sipil membuka Diploma IV Program Studi Manajemen Rekayasa Konstruksi 
+   berdasarkan surat izin Dirjen Dikti nomor: 3803/D/T/2004. 
+   Kemudian, pada tahun 2005 Jurusan Teknik Mesin menambah program studi baru dengan membuka
+   Diploma IV Program Studi Teknik Otomotif Elektronik berdasarkan surat izin Dirjen Dikti Nomor: 2964/D/T/2005
+   dan Jurusan Teknik Elektro membuka Diploma III Program Studi Manajemen Informatika
+   berdasarkan surat izin Dirjen Dikti nomor: 2001/D/T/2005.
+    </div>
+  </div>
+  <h1></h1>
+  <h1></h1>
+  <h1></h1>
+  <div class="container mt-5">
+   <h2 class="text-center">Gallery</h2>
+  <div class="card-deck">
+  <div class="card">
+    <img src="polinema.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="polinema2.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="polinema3.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+<div class="container mt-5">
+ <h2 class="text-center">Contact Us</h2>
+<div class="row">
+    <div class="col-4">
+<div class="card bg-light mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h5 class="card-title">Light card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+		</div>
+	<div class="col-8">
+			<form>
+  <div class="form-group">
+    <label for="formGroupExampleInput">Nama</label>
+    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+  </div>
+  <div class="form-group">
+    <label for="formGroupExampleInput2">Email</label>
+    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input">
+  </div>
+  <div class="form-group">
+    <label for="formGroupExampleInput2">pesan</label>
+    <textarea class="form-control" id="formGroupExampleInput2" placeholder="Pesan"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Kirim</button>
+</form>
+		</div>
+<footer class="bg-primary text-white mt-4 pt-3">
+<div class="container">
+<div class="col text-center">
+<p> Copyright 2019 by Afrina</p>
+</div>
+</div>
+</footer>
+
+</div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
